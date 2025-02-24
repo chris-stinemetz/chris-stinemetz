@@ -1,16 +1,16 @@
-## Hi there 👋
+### Hello there 👋
 
-<!--
-**chris-stinemetz/chris-stinemetz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+#### A Software Engineer by day ☼ and a tinkerer by night ☾
 
-Here are some ideas to get you started:
+- :video_game: I am working as a **Software Engineer**
+- :monocle_face: Interested in everything **Cloud Native**, **Big Data** and **AI**
+- :seedling: Currently learning **Golang**
+- :heart: Open Source Software
+- :penguin: **Linux** ... it is the way..
+- :gear: I use daily: `.go`, `.py`, `.ts`, `.js`, `k8s`, `helm`, `docker`, `elasticsearch`, `logstash`, `airflow`
+- :earth_americas: Lately I'm mostly active within the **Next.js Community**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 📫 Contact Me
+
+- Email: [chris.stinemetz@gmail.com](mailto:chris.stinemetz@gmail.com)
+- LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/in/chris-stinemetz/)
