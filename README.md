@@ -8,7 +8,7 @@
 - :heart: Open Source Software
 - :penguin: **Linux** ... it is the way..
 - :gear: I use daily: `.go`, `.py`, `.ts`, `.js`, `k8s`, `helm`, `docker`, `elasticsearch`, `logstash`, `airflow`
-- :earth_americas: Lately I'm mostly active within the **Next.js Community**
+- :earth_americas: Lately I'm mostly active within **Kubernetes**
 
 ### 📫 Contact Me
 
