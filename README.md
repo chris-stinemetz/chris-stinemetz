@@ -13,4 +13,3 @@
 ### 📫 Contact Me
 
 - Email: [chris.stinemetz@gmail.com](mailto:chris.stinemetz@gmail.com)
-- LinkedIn: [LinkedIn Profile](https://www.linkedin.com/in/chris-stinemetz/)
